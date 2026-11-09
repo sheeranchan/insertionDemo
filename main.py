@@ -42,8 +42,8 @@ CAMERA_HEIGHT = 480
 CAMERA_FPS = 15
 DEPTH_VIS_ALPHA = 0.03
 
-DEFAULT_DATASET_FOLDER = r"D:\Positioning\dataset"
-DEFAULT_MODEL_PATH = r"D:\Positioning\runs\segment\exp5\weights\best.pt"
+DEFAULT_DATASET_FOLDER = r"C:\Users\ROG\Desktop\PhD_Research\4_Programming\vision-insertion\positioning\dataset"
+DEFAULT_MODEL_PATH = r"C:\Users\ROG\Desktop\PhD_Research\4_Programming\vision-insertion\runs\segment\exp5\weights\best.pt"
 
 LOCAL_FX = 615.0
 LOCAL_FY = 615.0
@@ -62,8 +62,8 @@ XYZ_SCALE_Z = 1.0
 
 YOLO_CONFIDENCE = 0.25
 
-SETTINGS_FILE = r"D:\Positioning\main_settings.json"
-CALIBRATION_TRANSFORM_FILE = r"D:\Positioning\9点标定\opencv_3d_transform_matrix.txt"
+SETTINGS_FILE = r"C:\Users\ROG\Desktop\PhD_Research\4_Programming\vision-insertion\positioning\main_settings.json"
+CALIBRATION_TRANSFORM_FILE = r"C:\Users\ROG\Desktop\PhD_Research\4_Programming\vision-insertion\positioning\9点标定\opencv_3d_transform_matrix.txt"
 
 TCP_SERVER_HOST = "127.0.0.1"
 TCP_SERVER_PORT = 5678

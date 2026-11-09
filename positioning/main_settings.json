@@ -1,0 +1,19 @@
+{
+    "mode_index": 0,
+    "local_image_name": "",
+    "dataset_folder": "C:\\Users\\ROG\\Desktop\\PhD_Research\\4_Programming\\vision-insertion\\positioning\\dataset",
+    "model_path": "C:\\Users\\ROG\\Desktop\\PhD_Research\\4_Programming\\vision-insertion\\runs\\segment\\exp5\\weights\\best.pt",
+    "x_scale": 1.0,
+    "y_scale": 1.0,
+    "z_scale": 1.0,
+    "max_depth": 3000.0,
+    "point_size": 2.0,
+    "stride": 4,
+    "box_x_min": 0.0,
+    "box_x_max": 100000.0,
+    "box_y_min": 0.0,
+    "box_y_max": 100000.0,
+    "box_z_min": 10.0,
+    "box_z_max": 400.0,
+    "auto_send_tcp": true
+}
